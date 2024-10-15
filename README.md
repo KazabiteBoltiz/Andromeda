@@ -3,7 +3,7 @@
 **Andromeda** is a versatile battle framework for Roblox, designed to make the creation of fighting systems effortless. Whether your game features melee combat, ranged weapons, or magic spells, Andromeda handles all the tricky backend stuff so you can focus on building fun, creative experiences.
 
 ## Powered by Spark Networking
-Andromeda is built with **Spark**—a networking module designed to make remote event handling smooth and efficient. With Spark, you can fetch remote events and functions across multiple scripts without worrying about redundancy. Its **Fake Signaling** feature lets the client act before the server has fully established events, ensuring quick, seamless interaction. Spark is designed to replace the limitations of other modules like Comm, giving you more flexibility and control without the hassle of fetching namespaces.
+Andromeda is built with my own **Spark**—a networking module designed to make remote event handling smooth and efficient. With Spark, you can fetch remote events and functions across multiple scripts without worrying about redundancy. Its **Fake Signaling** feature lets the client act before the server has fully established events, ensuring quick, seamless interaction. Spark is designed to replace the limitations of other modules like Comm, giving you more flexibility and control without the hassle of fetching namespaces.
 
 ## Features at a Glance:
 - **Priority-Based Tiebreaking**: Ever had two abilities clash at the same time? Andromeda steps in with a priority system to decide which move wins. An **Ultimate** always beats a **Light** attack, keeping combat decisions exciting and strategic.
