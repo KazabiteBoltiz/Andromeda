@@ -41,4 +41,4 @@ Andromeda is built with my own **Spark**—a networking module designed to make 
 **Andromeda** isn’t just theory—it’s *"battle"*-tested and trusted by developers in real games! After an initial sale to a game studio, we're opening it up to the community so you can harness its power in your own projects.
 
 # Why Andromeda? 
-It gives structure to combat systems and does the heavylifting, so you can focus on making great battle mechanics. Andromeda was designed to handle absolutely anything you throw at it, no matter how wild your ideas get. Plus, it’s open-source—so you can take it, tweak it, and make it your own.
+It gives structure to combat systems and does the heavylifting, so you can focus on making great battle mechanics. Andromeda was designed to handle abilties similar to the complexity of those seen in Valorant and is able to handle absolutely anything you throw at it, no matter how wild your ideas get. Plus, it’s open-source—so you can take it, tweak it, and make it your own.
