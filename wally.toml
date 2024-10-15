@@ -1,0 +1,14 @@
+[package]
+name = "kboltiz/Andromeda"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Trove = "sleitnick/trove@1.3.0"
+Signal = "sleitnick/signal@2.0.1"
+Component = "sleitnick/component@2.4.8"
+EnumList = "sleitnick/enum-list@2.1.0"
+Tree = "sleitnick/tree@1.1.0"
+Promise = "evaera/promise@4.0.0"
+ReFX = "wad4444/refx@0.3.2"

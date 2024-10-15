@@ -1,0 +1,48 @@
+{
+  "name": "Andromeda",
+  "tree": {
+    "$className": "DataModel",
+    "$ignoreUnknownInstances" : true,
+
+    "ReplicatedStorage": {
+      "$ignoreUnknownInstances" : true,
+      "Abilities" : {
+        "$path" : "Abilities/Client"
+      },
+      "Visuals" : {
+        "$path" : "Visuals"
+      },
+      "Packages" : {
+        "$path" : "Packages"
+      },
+      "Components" : {
+        "$path" : "Components/Client"
+      },
+      "Modules" : {
+        "$path" : "Modules"
+      },
+      "GameData" : {
+        "$path" : "GameData"
+      }
+    },
+
+    "ServerScriptService": {
+      "$ignoreUnknownInstances" : true,
+      "$path": "Server",
+      "Abilities" : {
+        "$path" : "Abilities/Server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$ignoreUnknownInstances" : true,
+        "$path" : "Client/Player"
+      },
+      "StarterCharacterScripts": {
+        "$ignoreUnknownInstances" : true,
+        "$path" : "Client/Character"
+      }
+    }
+  }
+}

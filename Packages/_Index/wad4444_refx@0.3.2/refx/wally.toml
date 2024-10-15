@@ -1,0 +1,17 @@
+[package]
+name = "wad4444/refx"
+version = "0.3.2"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "A lightweight library for Replicating Visual Effects in Roblox."
+license = "MIT"
+include = ["src", "wally.toml", "default.project.json"]
+exclude = ["docs", "out", "scripts", "node_modules", "bin", "assets", ".vscode", ".github", "*.toml", "*.json", "*.tgz", ".luaurc", "README.md", "*.yaml"]
+
+[dependencies]
+remo = "littensy/remo@1.4.0"
+t = "osyrisrblx/t@3.1.1"
+signal = "sleitnick/signal@2.0.1"
+
+[dev-dependencies]
+testez = "roblox/testez@0.4.1"
